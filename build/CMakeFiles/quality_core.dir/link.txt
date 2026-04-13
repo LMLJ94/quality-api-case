@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libquality_core.a CMakeFiles/quality_core.dir/src/quality_service.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libquality_core.a

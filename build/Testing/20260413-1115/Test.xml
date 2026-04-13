@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260413-1115-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.1.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Windows"
+	Hostname="LAPTOP-4L8785B2"
+	OSRelease=" Professional"
+	OSVersion=" (Build 26200)"
+	OSPlatform="AMD64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="15"
+	ModelID="4"
+	ModelName="AMD Ryzen 7 PRO 6850U with Radeon Graphics"
+	ProcessorCacheSize="64"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="33486"
+	TotalPhysicalMemory="31502"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2701"
+	>
+	<Testing>
+		<StartDateTime>Apr 13 13:15 Rom, sommertid</StartDateTime>
+		<StartTestTime>1776078923</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 13 13:15 Rom, sommertid</EndDateTime>
+		<EndTestTime>1776078923</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
