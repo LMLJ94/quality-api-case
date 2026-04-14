@@ -1,0 +1,44 @@
+[
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/quality_core.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\quality_core.dir\\src\\quality_service.cpp.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\itt-cicd-case-project-main\\src\\quality_service.cpp",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/itt-cicd-case-project-main/src/quality_service.cpp",
+  "output": "CMakeFiles/quality_core.dir/src/quality_service.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -D_WIN32_WINNT=0x0A00 @CMakeFiles/quality_api.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\quality_api.dir\\src\\main.cpp.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\itt-cicd-case-project-main\\src\\main.cpp",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/itt-cicd-case-project-main/src/main.cpp",
+  "output": "CMakeFiles/quality_api.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/quality_service_tests.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\quality_service_tests.dir\\tests\\quality_service_test.cpp.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\itt-cicd-case-project-main\\tests\\quality_service_test.cpp",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/itt-cicd-case-project-main/tests/quality_service_test.cpp",
+  "output": "CMakeFiles/quality_service_tests.dir/tests/quality_service_test.cpp.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock.dir\\src\\gmock-all.cc.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\build\\_deps\\googletest-src\\googlemock\\src\\gmock-all.cc",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-build/googlemock",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gmock_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gmock_main.dir\\src\\gmock_main.cc.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\build\\_deps\\googletest-src\\googlemock\\src\\gmock_main.cc",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest.dir\\src\\gtest-all.cc.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\build\\_deps\\googletest-src\\googletest\\src\\gtest-all.cc",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj"
+},
+{
+  "directory": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-build/googletest",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe  @CMakeFiles/gtest_main.dir/includes_CXX.rsp -g -std=c++17 -Wall -Wshadow -Wundef -Wno-error=dangling-else -DGTEST_HAS_PTHREAD=0 -fexceptions -Wextra -Wno-unused-parameter -Wno-missing-field-initializers -o CMakeFiles\\gtest_main.dir\\src\\gtest_main.cc.obj -c C:\\Users\\Rumle\\Downloads\\itt-cicd-case-project-main\\build\\_deps\\googletest-src\\googletest\\src\\gtest_main.cc",
+  "file": "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj"
+}
+]

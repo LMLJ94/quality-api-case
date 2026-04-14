@@ -1,0 +1,5 @@
+if(EXISTS "C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/quality_service_tests[1]_tests.cmake")
+  include("C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/quality_service_tests[1]_tests.cmake")
+else()
+  add_test(quality_service_tests_NOT_BUILT quality_service_tests_NOT_BUILT)
+endif()

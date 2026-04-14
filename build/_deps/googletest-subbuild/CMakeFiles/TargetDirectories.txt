@@ -1,0 +1,3 @@
+C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+C:/Users/Rumle/Downloads/itt-cicd-case-project-main/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

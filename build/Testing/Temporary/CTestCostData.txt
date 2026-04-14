@@ -1,0 +1,11 @@
+QualityServiceTest.GradeBoundaries 3 0.00437283
+QualityServiceTest.DiscountBoundaries 3 0.0040004
+QualityServiceTest.DiscountCombinationRules 9 0.0012715
+QualityServiceTest.BookingRules 8 0.00141965
+QualityServiceTest.UsernameRules 3 0.00420143
+QualityServiceTest.SensorAverageUsesPreciseDivision 3 0.004065
+QualityServiceTest.SensorHealthDetectsWarningAndUnstable 8 0.0015664
+QualityServiceTest.UsernameLength 3 0.00399777
+QualityServiceTest.SensorAverageNegative 3 0.00367657
+QualityServiceTest.SensorHealthOK 3 0.0037637
+---
